@@ -1,3 +1,9 @@
+# folders not to push
+mlModels/
+static/
+templates/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
