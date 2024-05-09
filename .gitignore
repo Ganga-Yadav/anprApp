@@ -2,6 +2,11 @@
 mlModels/
 static/
 templates/
+anprsys/
+DetectedResult/
+DetectedResult_new/
+myModels/
+regions/
 
 
 # Byte-compiled / optimized / DLL files
