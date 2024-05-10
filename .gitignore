@@ -5,6 +5,7 @@ templates/
 anprsys/
 DetectedResult/
 DetectedResult_new/
+Detected_Images/
 myModels/
 regions/
 Tensorflow/
