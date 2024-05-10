@@ -5,10 +5,10 @@ templates/
 anprsys/
 DetectedResult/
 DetectedResult_new/
-Detected_Images/
 myModels/
 regions/
 Tensorflow/
+Detected_Images/
 
 
 # Byte-compiled / optimized / DLL files
